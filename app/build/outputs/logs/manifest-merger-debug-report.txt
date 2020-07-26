@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\f02041c3ab67bf84a5742d0e813ec629\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b395854b01f4758df02eb3bd54a59e6c\core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\978604fd959c067d19098c093e165aa2\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\24a07933717129203c9b7d9deed6fd57\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e624113083c5eddc9a6a4631f80386b6\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\179a741ea388dac4d8b772d255a8374b\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\4f377687bcd31f46525c4cc2aa61b330\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\57a6b09f4274f8c2142ec76de48781aa\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\8d73db54f9090b6535d184d3d1b0b4a2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\6c3dfaab39765c7f862e87decf977345\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\11367e90bc7378b6192c26867ab5adc6\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\7406cc5e8d8bf89f29c9594ac6b366ca\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\3f4a04549e3ed36d7dcae90440c7ae28\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b4714213cc0a4390cc8b53f5f5a2ecdb\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e7434ea040edcdbd4f8c612a8b86bf58\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\cd0b17e7502dc481d0391eb52cd4a34b\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\bf33750ce38bcc971bcf6c7380aaf681\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\c7cd1148e1d4674e16e758b33287b98c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\78fbc7c655eceac02eb524a7552cf803\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\909649b7a98a8f1bbcd91d60a9d43550\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\ecb1c8cbbecde49d8794821f79f0ead2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\f721cf29df3a1946f64f7eb7633d3d09\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\978604fd959c067d19098c093e165aa2\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\978604fd959c067d19098c093e165aa2\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b4714213cc0a4390cc8b53f5f5a2ecdb\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b4714213cc0a4390cc8b53f5f5a2ecdb\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e7434ea040edcdbd4f8c612a8b86bf58\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e7434ea040edcdbd4f8c612a8b86bf58\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b4714213cc0a4390cc8b53f5f5a2ecdb\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:11:9-40
+activity#ru.skillbranch.devintensive.MainActivity
+ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\f02041c3ab67bf84a5742d0e813ec629\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\f02041c3ab67bf84a5742d0e813ec629\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b395854b01f4758df02eb3bd54a59e6c\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b395854b01f4758df02eb3bd54a59e6c\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\978604fd959c067d19098c093e165aa2\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\978604fd959c067d19098c093e165aa2\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\24a07933717129203c9b7d9deed6fd57\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\24a07933717129203c9b7d9deed6fd57\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e624113083c5eddc9a6a4631f80386b6\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e624113083c5eddc9a6a4631f80386b6\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\179a741ea388dac4d8b772d255a8374b\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\179a741ea388dac4d8b772d255a8374b\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\4f377687bcd31f46525c4cc2aa61b330\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\4f377687bcd31f46525c4cc2aa61b330\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\57a6b09f4274f8c2142ec76de48781aa\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\57a6b09f4274f8c2142ec76de48781aa\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\8d73db54f9090b6535d184d3d1b0b4a2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\8d73db54f9090b6535d184d3d1b0b4a2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\6c3dfaab39765c7f862e87decf977345\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\6c3dfaab39765c7f862e87decf977345\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\11367e90bc7378b6192c26867ab5adc6\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\11367e90bc7378b6192c26867ab5adc6\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\7406cc5e8d8bf89f29c9594ac6b366ca\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\7406cc5e8d8bf89f29c9594ac6b366ca\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\3f4a04549e3ed36d7dcae90440c7ae28\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\3f4a04549e3ed36d7dcae90440c7ae28\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b4714213cc0a4390cc8b53f5f5a2ecdb\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\b4714213cc0a4390cc8b53f5f5a2ecdb\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e7434ea040edcdbd4f8c612a8b86bf58\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\e7434ea040edcdbd4f8c612a8b86bf58\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\cd0b17e7502dc481d0391eb52cd4a34b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\cd0b17e7502dc481d0391eb52cd4a34b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\bf33750ce38bcc971bcf6c7380aaf681\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\bf33750ce38bcc971bcf6c7380aaf681\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\c7cd1148e1d4674e16e758b33287b98c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\c7cd1148e1d4674e16e758b33287b98c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\78fbc7c655eceac02eb524a7552cf803\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\78fbc7c655eceac02eb524a7552cf803\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\909649b7a98a8f1bbcd91d60a9d43550\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\909649b7a98a8f1bbcd91d60a9d43550\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\ecb1c8cbbecde49d8794821f79f0ead2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\ecb1c8cbbecde49d8794821f79f0ead2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\f721cf29df3a1946f64f7eb7633d3d09\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DANYA_\.gradle\caches\transforms-2\files-2.1\f721cf29df3a1946f64f7eb7633d3d09\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\dev-intensive-2019-hometask_2\app\src\main\AndroidManifest.xml
